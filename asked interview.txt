@@ -1,0 +1,9 @@
+what is git stages
+
+what is git actions
+
+what is git merge 
+
+what is build
+
+what is build in jenkins
